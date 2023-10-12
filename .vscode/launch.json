@@ -31,8 +31,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/optimo911/Documents/Vs_Code/TP1 C",
-      "program": "/home/optimo911/Documents/Vs_Code/TP1 C/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
