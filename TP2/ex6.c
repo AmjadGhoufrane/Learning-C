@@ -12,7 +12,7 @@ int main(void) // Broken for now
         printf("Fin du programme \n");
     }
 
-    printf("%c",num[e]);
+    printf("%s\n",num[e+1]);
 
     return 0;
 }
