@@ -58,7 +58,8 @@
   "files.associations": {
     "*.html": "html",
     "stdio.h": "c",
-    "ex6.C": "cpp"
+    "ex6.C": "cpp",
+    "ex1.C": "cpp"
   },
   "C_Cpp_Runner.msvcSecureNoWarnings": false
 }
