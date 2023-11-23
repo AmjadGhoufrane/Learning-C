@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "ex1.h"
 
-void multi(int e)
+int multi(int e)
 {
     int i;
 
